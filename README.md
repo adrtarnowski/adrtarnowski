@@ -11,4 +11,4 @@ I’m Adrian, and I can help you with bridging the gap between the programming a
 
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.
 
-[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adrtarnowski&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adrtarnowski&theme=great-gatsby&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
